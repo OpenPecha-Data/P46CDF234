@@ -1,0 +1,100 @@
+id: bc33c9ee5a994add98aec593400a7ad9
+annotation_type: Pagination
+revision: '00001'
+annotations:
+  9f090c5eaa254726b123af27caf3326d:
+    span:
+      start: 14328
+      end: 14383
+    metadata: {}
+    page_info: null
+    imgnum: 12
+    reference: EP7F1C33D2396FF424
+  45473570b3e94baaa657fa79d68c6014:
+    span:
+      start: 121
+      end: 1637
+    metadata: {}
+    page_info: null
+    imgnum: 2
+    reference: EP747B49570678B69B
+  dc76b2cb31d04f479f3b52028ab05c08:
+    span:
+      start: 10366
+      end: 11401
+    metadata: {}
+    page_info: null
+    imgnum: 9
+    reference: EPCD97FE39A2BAC6AE
+  662eebe257e34891b40f368ee5cc1b46:
+    span:
+      start: 6044
+      end: 7517
+    metadata: {}
+    page_info: null
+    imgnum: 6
+    reference: EP9254D64A1BD7B318
+  34847eaa9cb24470b94504e21e22c3fd:
+    span:
+      start: 7519
+      end: 8942
+    metadata: {}
+    page_info: null
+    imgnum: 7
+    reference: EP6A652B84C9CFE1F6
+  282a9f02b6ec461496eef14806b1bedf:
+    span:
+      start: 4611
+      end: 6042
+    metadata: {}
+    page_info: null
+    imgnum: 5
+    reference: EP8BA6326F482335F3
+  5bffb678da55476d9811f1e34c599a36:
+    span:
+      start: 11403
+      end: 12831
+    metadata: {}
+    page_info: null
+    imgnum: 10
+    reference: EPD37D9C91845F0A18
+  fe14c7bb799b43efbc45716c2036a4f6:
+    span:
+      start: 1639
+      end: 3155
+    metadata: {}
+    page_info: null
+    imgnum: 3
+    reference: EP98FD93DF7AD14200
+  97fb4ce722b1475896496c98d1deeeef:
+    span:
+      start: 0
+      end: 119
+    metadata: {}
+    page_info: null
+    imgnum: 1
+    reference: EPEF2F815ADEBA2763
+  c0ad5306125f42a386d772b5cfcbbd81:
+    span:
+      start: 8944
+      end: 10364
+    metadata: {}
+    page_info: null
+    imgnum: 8
+    reference: EP929BF2CC78AFE8CF
+  b63a1e2d8789499eb910577852b9113a:
+    span:
+      start: 3157
+      end: 4609
+    metadata: {}
+    page_info: null
+    imgnum: 4
+    reference: EPBAE2E846DB4E9CC5
+  8b0530e1012d4c9b9fa543e0c75662ca:
+    span:
+      start: 12833
+      end: 14326
+    metadata: {}
+    page_info: null
+    imgnum: 11
+    reference: EPC426EED4DEFD90CC

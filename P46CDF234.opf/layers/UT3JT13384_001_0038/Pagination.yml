@@ -1,0 +1,28 @@
+id: bacf6015828e473a99195021209a22c8
+annotation_type: Pagination
+revision: '00001'
+annotations:
+  13893390335a48fca630b6b66e2bf274:
+    span:
+      start: 2676
+      end: 3814
+    metadata: {}
+    page_info: null
+    imgnum: 3
+    reference: EP83597FC346951EED
+  d405f2db00674c1f946e3b264d47ef40:
+    span:
+      start: 1460
+      end: 2674
+    metadata: {}
+    page_info: null
+    imgnum: 2
+    reference: EP29CABE80F9792299
+  04780f11aa654c4b95e397e972eb85da:
+    span:
+      start: 0
+      end: 1458
+    metadata: {}
+    page_info: null
+    imgnum: 1
+    reference: EP513B3D84306C990E

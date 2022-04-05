@@ -1,0 +1,100 @@
+id: a8a76f6924894dd29e116df530e23672
+annotation_type: Pagination
+revision: '00001'
+annotations:
+  073c4d39d2904134a73dd2b294f0b7f8:
+    span:
+      start: 0
+      end: 113
+    metadata: {}
+    page_info: null
+    imgnum: 1
+    reference: EPD0216323209D2EE7
+  dd5a4d6dd907490592d90d8e94d8df01:
+    span:
+      start: 6084
+      end: 7525
+    metadata: {}
+    page_info: null
+    imgnum: 6
+    reference: EPC35167A94FAD5B15
+  a149650fd8b245eab9c548abb686c648:
+    span:
+      start: 10977
+      end: 12416
+    metadata: {}
+    page_info: null
+    imgnum: 10
+    reference: EPFCFFB92B38841C01
+  769b313b034d415e8ae3f3b37ffdb189:
+    span:
+      start: 10408
+      end: 10975
+    metadata: {}
+    page_info: null
+    imgnum: 9
+    reference: EP3676B0784D8B3BC2
+  02f24c1fa07b4893ba3fa944de5e0856:
+    span:
+      start: 13906
+      end: 14160
+    metadata: {}
+    page_info: null
+    imgnum: 12
+    reference: EP866118FED4B43BFD
+  9f1c4d3127e546f28ee60114c5ae567a:
+    span:
+      start: 7527
+      end: 8960
+    metadata: {}
+    page_info: null
+    imgnum: 7
+    reference: EP6DE52776C83FAD2E
+  6a24acbe442a4f7fbe9ac9fdb08b9160:
+    span:
+      start: 115
+      end: 1543
+    metadata: {}
+    page_info: null
+    imgnum: 2
+    reference: EPAB513C44DDA61834
+  dd5380c2bc48439cb1c0cf85e1adf717:
+    span:
+      start: 12418
+      end: 13904
+    metadata: {}
+    page_info: null
+    imgnum: 11
+    reference: EP451713CCB824E259
+  5647dc5b8d9848b7b41bbf2d68b0b322:
+    span:
+      start: 4599
+      end: 6082
+    metadata: {}
+    page_info: null
+    imgnum: 5
+    reference: EPB4AD845C2AAEFD83
+  b8fe8ee6d70c4f40979d8a3cbb70df6d:
+    span:
+      start: 2973
+      end: 4597
+    metadata: {}
+    page_info: null
+    imgnum: 4
+    reference: EP9B88348270E021D4
+  addc71962e9845018d19e79748b41ffc:
+    span:
+      start: 8962
+      end: 10406
+    metadata: {}
+    page_info: null
+    imgnum: 8
+    reference: EPA0DA6E3283F46D13
+  a34f5842af214e5e9cf876a0261385c1:
+    span:
+      start: 1545
+      end: 2971
+    metadata: {}
+    page_info: null
+    imgnum: 3
+    reference: EP80E406872B1123CB

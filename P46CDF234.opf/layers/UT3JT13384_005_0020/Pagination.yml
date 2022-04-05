@@ -1,0 +1,100 @@
+id: d1138d15c17e4cceae4d11bbf3386a8d
+annotation_type: Pagination
+revision: '00001'
+annotations:
+  28658800565d435db0966c51a5255b5a:
+    span:
+      start: 8826
+      end: 10262
+    metadata: {}
+    page_info: null
+    imgnum: 8
+    reference: EPD54FC91E3E7776FC
+  2652e30c5b7145408810e8936e2c9f33:
+    span:
+      start: 3047
+      end: 4501
+    metadata: {}
+    page_info: null
+    imgnum: 4
+    reference: EP4231147714489B0A
+  8f6de92d824f409ca6aeaf5dd0bcb24d:
+    span:
+      start: 14429
+      end: 14645
+    metadata: {}
+    page_info: null
+    imgnum: 12
+    reference: EP146727AD4B258871
+  51cffbecb4af42548e3c046a7939264a:
+    span:
+      start: 12929
+      end: 14427
+    metadata: {}
+    page_info: null
+    imgnum: 11
+    reference: EP8E9E6C600EEE8819
+  e99b31f226ba48ce96af213332913d62:
+    span:
+      start: 1597
+      end: 3045
+    metadata: {}
+    page_info: null
+    imgnum: 3
+    reference: EP59630170B20F1296
+  508a368edc1d499c9451169cdc19a5be:
+    span:
+      start: 7383
+      end: 8824
+    metadata: {}
+    page_info: null
+    imgnum: 7
+    reference: EPC12DCA32982EC990
+  86367b1345cc460182a75f3dc50741a2:
+    span:
+      start: 10264
+      end: 11510
+    metadata: {}
+    page_info: null
+    imgnum: 9
+    reference: EPE719E051B67FA751
+  60044f5c98f14ab1af2850250fa191e1:
+    span:
+      start: 5944
+      end: 7381
+    metadata: {}
+    page_info: null
+    imgnum: 6
+    reference: EPF060F9D4B3133679
+  96f24b7f06f74130a28bec753fb42b1a:
+    span:
+      start: 4503
+      end: 5942
+    metadata: {}
+    page_info: null
+    imgnum: 5
+    reference: EPD36344C267183FCC
+  8147ed685fbc49cb80f4b59c0ed28cef:
+    span:
+      start: 138
+      end: 1595
+    metadata: {}
+    page_info: null
+    imgnum: 2
+    reference: EPC95DB6E419EADF1E
+  423b7438c5bf4681aa5f6010cd8e45da:
+    span:
+      start: 0
+      end: 136
+    metadata: {}
+    page_info: null
+    imgnum: 1
+    reference: EP73B21669E42158C8
+  bb0b32e416854bc5a451fac2717c27a9:
+    span:
+      start: 11512
+      end: 12927
+    metadata: {}
+    page_info: null
+    imgnum: 10
+    reference: EPD2BD9E1D5712FA5D

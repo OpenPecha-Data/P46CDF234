@@ -1,0 +1,100 @@
+id: f0a8d3af22dc4ef693dfee2e025ceef7
+annotation_type: Pagination
+revision: '00001'
+annotations:
+  af7b6212dd3a43bbb8b8ffcec4cd576d:
+    span:
+      start: 10390
+      end: 10969
+    metadata: {}
+    page_info: null
+    imgnum: 9
+    reference: EP012440A889022C0A
+  813590cb7d1b4cdab10937ea5cb996de:
+    span:
+      start: 13987
+      end: 13989
+    metadata: {}
+    page_info: null
+    imgnum: 12
+    reference: EP32C0F7C26054AACB
+  2f94165d4d644ce0bdbd24e1d291c021:
+    span:
+      start: 6014
+      end: 7439
+    metadata: {}
+    page_info: null
+    imgnum: 6
+    reference: EPFBC41A2BB0CC88BF
+  091ae2a2fdcb42e38d32b4e46a177091:
+    span:
+      start: 10971
+      end: 12431
+    metadata: {}
+    page_info: null
+    imgnum: 10
+    reference: EP8FC617652F6A01F3
+  8394ea9dbcc94387814209a6dcf5edad:
+    span:
+      start: 4579
+      end: 6012
+    metadata: {}
+    page_info: null
+    imgnum: 5
+    reference: EP501249C6B23DB792
+  a634e5dba9a64a40a20248448e1cd79c:
+    span:
+      start: 0
+      end: 225
+    metadata: {}
+    page_info: null
+    imgnum: 1
+    reference: EP5F4CE89CEB881B4C
+  8cac10797017474a9db0c42f6da6afc4:
+    span:
+      start: 3142
+      end: 4577
+    metadata: {}
+    page_info: null
+    imgnum: 4
+    reference: EP3A86B02E73E7D698
+  5c4220aaa55647ec81c3cb1344e2f6ed:
+    span:
+      start: 1679
+      end: 3140
+    metadata: {}
+    page_info: null
+    imgnum: 3
+    reference: EPAB06D91D8544F91E
+  cd9e889fe44241c989f5c9843ae67474:
+    span:
+      start: 12433
+      end: 13985
+    metadata: {}
+    page_info: null
+    imgnum: 11
+    reference: EP874373BE279FDFEB
+  de207b2010fd40439313530f056d51db:
+    span:
+      start: 8915
+      end: 10388
+    metadata: {}
+    page_info: null
+    imgnum: 8
+    reference: EPA12E0E281135CC39
+  ba0f1877c7b647cbad793c8e4f10e032:
+    span:
+      start: 227
+      end: 1677
+    metadata: {}
+    page_info: null
+    imgnum: 2
+    reference: EP82EC95FCCE2BB6B5
+  1b44a5e649674a6ca1d8619aa4090a79:
+    span:
+      start: 7441
+      end: 8913
+    metadata: {}
+    page_info: null
+    imgnum: 7
+    reference: EPC72321CCE63DB3E4

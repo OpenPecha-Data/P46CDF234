@@ -1,0 +1,100 @@
+id: ee0c5ecb02df4d70808f8a2fb004862d
+annotation_type: Pagination
+revision: '00001'
+annotations:
+  91ff75c6be8547959369f2cf6c0cd4fa:
+    span:
+      start: 4455
+      end: 5893
+    metadata: {}
+    page_info: null
+    imgnum: 5
+    reference: EP9DF93C55BA9ECB40
+  5fa3660f500f44c690634f0238d6f636:
+    span:
+      start: 0
+      end: 95
+    metadata: {}
+    page_info: null
+    imgnum: 1
+    reference: EP44F5629A9FDBB86F
+  937b885e6c884d14af4e562110986b48:
+    span:
+      start: 10223
+      end: 10792
+    metadata: {}
+    page_info: null
+    imgnum: 9
+    reference: EPF83E5EB20358ACE6
+  600d2305182f44c684c4bd9a57401db7:
+    span:
+      start: 2998
+      end: 4453
+    metadata: {}
+    page_info: null
+    imgnum: 4
+    reference: EPEF2C42E378CF0B3D
+  51f199b2a60c44cdac1d1c589a8a4d50:
+    span:
+      start: 8786
+      end: 10221
+    metadata: {}
+    page_info: null
+    imgnum: 8
+    reference: EP01BDB9B689584F21
+  974a7c411a7d42519010b8ef96e8f498:
+    span:
+      start: 5895
+      end: 7341
+    metadata: {}
+    page_info: null
+    imgnum: 6
+    reference: EP93C245EDD3DDF8EA
+  2e6b2bbf5ea54245a690eeaf5c9cd4eb:
+    span:
+      start: 12292
+      end: 13733
+    metadata: {}
+    page_info: null
+    imgnum: 11
+    reference: EPBFE2CBF7DB6583EA
+  14a1768f74f7440cb5f455ad1a0c48c4:
+    span:
+      start: 10794
+      end: 12290
+    metadata: {}
+    page_info: null
+    imgnum: 10
+    reference: EPEF499BCB52CF0EBC
+  3643600febc442a79f022d323014b990:
+    span:
+      start: 7343
+      end: 8784
+    metadata: {}
+    page_info: null
+    imgnum: 7
+    reference: EPFD6FAC6BF0132304
+  963bc09e575342dba2d99ed6ebe938e1:
+    span:
+      start: 97
+      end: 1556
+    metadata: {}
+    page_info: null
+    imgnum: 2
+    reference: EP2B5CAA852BEB741E
+  4d50caa7c5aa430db4813310bc20a507:
+    span:
+      start: 13735
+      end: 14696
+    metadata: {}
+    page_info: null
+    imgnum: 12
+    reference: EP7C7AC5961CC64B97
+  8a176311efc14412add893dfa3109c88:
+    span:
+      start: 1558
+      end: 2996
+    metadata: {}
+    page_info: null
+    imgnum: 3
+    reference: EP30485FEF83164B77

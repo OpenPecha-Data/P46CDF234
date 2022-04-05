@@ -1,0 +1,100 @@
+id: 5a66e5aabfda4d9f8cc63cea725d155d
+annotation_type: Pagination
+revision: '00001'
+annotations:
+  bdb1a0db67cf43de840585e24674d53d:
+    span:
+      start: 12724
+      end: 14260
+    metadata: {}
+    page_info: null
+    imgnum: 11
+    reference: EP1617B65703613F25
+  c42dd8c194a74a4eb95020e3be4fcbc2:
+    span:
+      start: 2992
+      end: 4442
+    metadata: {}
+    page_info: null
+    imgnum: 4
+    reference: EPF09672F10D965CB4
+  5f169f52d68c48dab444e45cdfd7cd3e:
+    span:
+      start: 10190
+      end: 11204
+    metadata: {}
+    page_info: null
+    imgnum: 9
+    reference: EP24E67BB65F7DE9FB
+  ab070fca00b043e0a53301ccfd3b880c:
+    span:
+      start: 14262
+      end: 14415
+    metadata: {}
+    page_info: null
+    imgnum: 12
+    reference: EP8027F8712F88AC72
+  958d2f8a3756430c9dc0cd2dc96b6083:
+    span:
+      start: 8747
+      end: 10188
+    metadata: {}
+    page_info: null
+    imgnum: 8
+    reference: EPE261CBC1F59E5E24
+  e2aa5e0373b746d4b49013f45feb4917:
+    span:
+      start: 7309
+      end: 8745
+    metadata: {}
+    page_info: null
+    imgnum: 7
+    reference: EPF97709FFF29590A8
+  e1346a3cea434ab8acbf30dbcf0498e6:
+    span:
+      start: 4444
+      end: 5869
+    metadata: {}
+    page_info: null
+    imgnum: 5
+    reference: EPABD23C2A29A68438
+  07e68fa4d0bf47afa1fc5ba021a354c3:
+    span:
+      start: 5871
+      end: 7307
+    metadata: {}
+    page_info: null
+    imgnum: 6
+    reference: EP36D7DEA2712A6345
+  e3130f2489b54a1194750816bb50c620:
+    span:
+      start: 11206
+      end: 12722
+    metadata: {}
+    page_info: null
+    imgnum: 10
+    reference: EP8DA15738D710C80C
+  b840c8304ab641fa91e5e7e2bca0ec90:
+    span:
+      start: 1561
+      end: 2990
+    metadata: {}
+    page_info: null
+    imgnum: 3
+    reference: EPC82258E55E23E6B9
+  ff391231e27b4b5084b8a8adff4f17bd:
+    span:
+      start: 0
+      end: 119
+    metadata: {}
+    page_info: null
+    imgnum: 1
+    reference: EP701C6D737C13C106
+  933dcb09e3784799a2bbe65e6855fcae:
+    span:
+      start: 121
+      end: 1559
+    metadata: {}
+    page_info: null
+    imgnum: 2
+    reference: EP13EFE0994EEE9E13

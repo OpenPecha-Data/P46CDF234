@@ -1,0 +1,100 @@
+id: 77f465ecf9634ad9b183e0e61c150a31
+annotation_type: Pagination
+revision: '00001'
+annotations:
+  d9b2d87e4fa0413c92f93b51d851e127:
+    span:
+      start: 10148
+      end: 11582
+    metadata: {}
+    page_info: null
+    imgnum: 9
+    reference: EP3B98826E5B9A01AC
+  f6efb27a63e74f46b68e26b8dab64c1d:
+    span:
+      start: 37
+      end: 1478
+    metadata: {}
+    page_info: null
+    imgnum: 2
+    reference: EP19B91AF284A4741B
+  b63f704c9c324312a992c2bb548e1b27:
+    span:
+      start: 1480
+      end: 2932
+    metadata: {}
+    page_info: null
+    imgnum: 3
+    reference: EPA96A780989875E7E
+  1c25f4360de948f6b1b5d42a8325fb5a:
+    span:
+      start: 13026
+      end: 14447
+    metadata: {}
+    page_info: null
+    imgnum: 11
+    reference: EP4CD28510CB66B437
+  113a9dcb20d646e18fbbb0c1deed0a88:
+    span:
+      start: 0
+      end: 35
+    metadata: {}
+    page_info: null
+    imgnum: 1
+    reference: EPDBDAB43147B15AF7
+  f2553278d0f7457da988db74b79a1a23:
+    span:
+      start: 2934
+      end: 4384
+    metadata: {}
+    page_info: null
+    imgnum: 4
+    reference: EPE85C58F20B978EFE
+  d591e6b53d0b42079e4c59d8910821ef:
+    span:
+      start: 5825
+      end: 7254
+    metadata: {}
+    page_info: null
+    imgnum: 6
+    reference: EPAAA672D7EFEF94B9
+  0f7a6392eacd4c8cacdf2492ee6d0347:
+    span:
+      start: 11584
+      end: 13024
+    metadata: {}
+    page_info: null
+    imgnum: 10
+    reference: EPF52B447B30B8984D
+  4ac9c72b3c014729816e3d521873bfe4:
+    span:
+      start: 8702
+      end: 10146
+    metadata: {}
+    page_info: null
+    imgnum: 8
+    reference: EP67C5206D94F56B44
+  cb43c2f59b094288ac096f307e878d9a:
+    span:
+      start: 4386
+      end: 5823
+    metadata: {}
+    page_info: null
+    imgnum: 5
+    reference: EP9D4840329538C9E9
+  f06c29dbac2440edabd4e3d2e279623a:
+    span:
+      start: 14449
+      end: 14475
+    metadata: {}
+    page_info: null
+    imgnum: 12
+    reference: EP438B04FEF6A2318B
+  89b8a1ff4ec0456eb163cba266a7f013:
+    span:
+      start: 7256
+      end: 8700
+    metadata: {}
+    page_info: null
+    imgnum: 7
+    reference: EPAA97D765ED25D8E9

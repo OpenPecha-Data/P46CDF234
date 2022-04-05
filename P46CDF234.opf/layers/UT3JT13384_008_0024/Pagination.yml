@@ -1,0 +1,100 @@
+id: 3cb5c66ee6174086a1e3b7fdd3905047
+annotation_type: Pagination
+revision: '00001'
+annotations:
+  ec5a504ba831415a8e84b69a51202c65:
+    span:
+      start: 0
+      end: 108
+    metadata: {}
+    page_info: null
+    imgnum: 1
+    reference: EPDF16C4F5776D4867
+  f9eb95b14fc44af793f884b1cf159ff6:
+    span:
+      start: 4437
+      end: 5851
+    metadata: {}
+    page_info: null
+    imgnum: 5
+    reference: EPBBC1F542397507D8
+  712f5cf7656e4da9ae98ba9566d7ddfd:
+    span:
+      start: 7273
+      end: 8729
+    metadata: {}
+    page_info: null
+    imgnum: 7
+    reference: EP2888CF0ECA21C4A8
+  d9c8b6c03ee7428b81367df7df74eadc:
+    span:
+      start: 5853
+      end: 7271
+    metadata: {}
+    page_info: null
+    imgnum: 6
+    reference: EPA30D2EA8D5647DE5
+  3dc068ab451c4aebb99054baa8db9d7f:
+    span:
+      start: 10971
+      end: 12387
+    metadata: {}
+    page_info: null
+    imgnum: 10
+    reference: EPA2543D983902E6B8
+  1bf8a5bc44e04afb8237de1a0ee0c17a:
+    span:
+      start: 1559
+      end: 2990
+    metadata: {}
+    page_info: null
+    imgnum: 3
+    reference: EPC717B3C82CE85FB6
+  2037248943e841958582427e29a06712:
+    span:
+      start: 110
+      end: 1557
+    metadata: {}
+    page_info: null
+    imgnum: 2
+    reference: EPD384A0D51D477059
+  e75f61a04b97417fadabe5cbc53c1270:
+    span:
+      start: 10177
+      end: 10969
+    metadata: {}
+    page_info: null
+    imgnum: 9
+    reference: EP66257402214D9C8E
+  6764348e9d60424cb1a0b5081a4f712d:
+    span:
+      start: 8731
+      end: 10175
+    metadata: {}
+    page_info: null
+    imgnum: 8
+    reference: EPE60B010544D2E0FB
+  780d61448a284a3cab9edb23a0e1c27f:
+    span:
+      start: 13854
+      end: 14730
+    metadata: {}
+    page_info: null
+    imgnum: 12
+    reference: EP886AE8026FAFC12F
+  6f13b6a6b1de4bea8d14325596017de1:
+    span:
+      start: 2992
+      end: 4435
+    metadata: {}
+    page_info: null
+    imgnum: 4
+    reference: EPC6FD761A9517E3A2
+  79e690de41ce4a2599d80b337b567044:
+    span:
+      start: 12389
+      end: 13852
+    metadata: {}
+    page_info: null
+    imgnum: 11
+    reference: EP60226967B1534EAD
