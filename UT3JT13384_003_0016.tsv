@@ -1,0 +1,116 @@
+form	lemma	POS	morph
+རྩ་	རྩ་	NUM
+གསུམ་	གསུམ་	NUM
+ཚོགས་	ཚོགས་	NOUN
+བསྡུ་	བསྡུ་	VERB
+ནི་	ནི་	NO_POS
+།		PUNCT
+རྃ་		NON_WORD
+ཡྃ་		NON_WORD
+ཁྃ་		NON_WORD
+།		PUNCT
+ཨོཾ་	ཨོཾ་	X
+ཨཱཿ་		NON_WORD
+ཧཱུྃ་		NON_WORD
+།		PUNCT
+ཧཱུྃ་		NON_WORD
+ཧྲཱིཿ་		NON_WORD
+རབས་	རབས་	NOUN
+འབྱམས་	འབྱམས་	NO_POS
+རྩ་	རྩ་	NUM
+གསུམ་	གསུམ་	NUM
+དཀྱིལ་འཁོར་	དཀྱིལ་འཁོར་	NOUN
+ལྷ་ཚོགས་	ལྷ་ཚོགས་	NOUN
+རྣམས་	རྣམས་	DET
+། །		PUNCT
+འདོད་ཡོན་	འདོད་ཡོན་	NOUN
+ཚོགས་	ཚོགས་	NOUN
+ལ་	ལ་	PART
+སྤྱན་	སྤྱན་	NOUN
+འདྲེན་	འདྲེན་	NO_POS
+གཤེགས་	གཤེགས་	VERB
+སུ་	ལ་	PART
+གསོལ་	གསོལ་	VERB
+། །		PUNCT
+ཕྱི་	ཕྱི་	NOUN
+ནང་	ནང་	NOUN
+གསང་བ་	གསང་བ་	VERB
+བླ་མེད་	བླ་མེད་	ADJ
+མཆོད་པ་	མཆོད་པ་	VERB
+འབུལ་	འབུལ་	NO_POS
+། །		PUNCT
+དམ་ཚིག་	དམ་ཚིག་	NOUN
+ཉམས་ཆག་	ཉམས་ཆག་	OTHER
+ཉེས་ལྟུང་	ཉེས་ལྟུང་	NOUN
+མཐོལ་	མཐོལ་	NO_POS
+ཞིང་	ཅིང་	PART
+བཤགས་	བཤགས་	NO_POS
+། །		PUNCT
+གཉིས་	གཉིས་	NUM
+འཛིན་	འཛིན་	VERB
+དགྲ་བགེགས་	དགྲ་བགེགས་	OTHER
+བསྒྲལ་བ་	བསྒྲལ་བ་	VERB
+འི་	གི་	PART
+ཤ་ཁྲག་	ཤ་ཁྲག་	NOUN
+རུས་	རུས་	NOUN
+། །		PUNCT
+དགྱེས་པ་	དགྱེས་པ་	VERB
+ར་	ལ་	PART
+བཞེས་	བཞེས་	VERB
+ལ་	ལ་	PART
+མཆོག་	མཆོག་	ADJ
+ཐུན་	ཐུན་	NOUN
+དངོས་གྲུབ་	དངོས་གྲུབ་	NOUN
+སྩོལ་	སྩོལ་	VERB
+།		PUNCT
+ཨོཾ་	ཨོཾ་	X
+ཨཱཿ་		NON_WORD
+ཧཱུྃ་		NON_WORD
+བཛྲ་	བཛྲ་	NO_POS
+གུ་རུ་	གུ་རུ་	PROPN
+པདྨ་	པདྨ་	NOUN
+དྷེ་		NON_WORD
+ཝ་	ཝ་	OTHER
+དྷཱ་		NON_WORD
+ཀི་	ཀི་	ADP
+ནི་	ནི་	NO_POS
+ཤྲཱི་		NON_WORD
+དྷརྨ་		NON_WORD
+པཱ་	པཱ་	NO_POS
+ལ་བ་	ལ་བ་	NOUN
+སུ་	ལ་	PART
+དེ་བ་	དེ་བ་	OTHER
+ནི་	ནི་	NO_POS
+དྷི་པ་	དྷི་པ་	NON_WORD
+ཏི་ས་པ་	ཏི་ས་པ་	NO_POS
+རི་	རི་	NOUN
+ཝཱ་	ཝཱ་	NO_POS
+ར་	ར་	ADP
+སརྦ་	སརྦ་	NO_POS
+ག་	ག་	PRON
+ཎ་		NON_WORD
+ཙཀྲ་	ཙཀྲ་	NO_POS
+པཱུ་		NON_WORD
+ཛ་	ཛ་	OTHER
+ཧོ་	ཧོ་	NO_POS
+།		PUNCT
+ཨོཾ་	ཨོཾ་	X
+བཛྲ་	བཛྲ་	NO_POS
+ས་	ས་	ADP
+ཏྭ་		NON_WORD
+ཨ་	ཨ་	X
+།		PUNCT
+ཨོཾ་	ཨོཾ་	X
+ཨུཙྪིཥྟ་བ་	ཨུཙྪིཥྟ་བ་	NON_WORD
+ལིཾ་		NON_WORD
+ཏ་	ཏ་	OTHER
+ཁཱ་		NON_WORD
+ཧི་	ཧི་	NO_POS
+།		PUNCT
+ཞེ་	ཅེས་	PART
+ཆོ་	ཆོ་	NOUN
+ཀྱི་	གི་	PART
+བློ་གྲོས་པ་	བློ་གྲོས་པ་	NOUN
+ས་	གིས་	PART
+སོ་	གོ་	PART
+།། །།		PUNCT
